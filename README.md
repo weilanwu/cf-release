@@ -2,7 +2,7 @@
 
 Cloud Foundry is an open platform as a service (PaaS) that provides a choice of clouds, developer frameworks, and application services. Cloud Foundry makes it faster and easier to build, test, deploy, and scale applications.
 
-This repository contains the Cloud Foundry source code.
+This repository contains the Cloud Foundry source code. more to pull and test
 
 Our documentation (currently a work in progress) is available here: [http://docs.cloudfoundry.org/](http://docs.cloudfoundry.org/).
 
