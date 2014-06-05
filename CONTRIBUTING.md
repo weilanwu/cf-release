@@ -6,6 +6,8 @@ The Cloud Foundry team uses GitHub and accepts contributions via
 The `cf-release` repository is a [BOSH](https://github.com/cloudfoundry/bosh)
 release for Cloud Foundry.
 
+pretending fixing boshlite
+
 If you wish to make a change to any of the components, submit a pull request to
 those repositories directly. Once accepted those changes should make their way
 into `cf-release`. All components are submodules in cf-release and can be found
