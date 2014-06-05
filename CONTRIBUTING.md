@@ -10,7 +10,7 @@ If you wish to make a change to any of the components, submit a pull request to
 those repositories directly. Once accepted those changes should make their way
 into `cf-release`. All components are submodules in cf-release and can be found
 in the [`src/`](https://github.com/cloudfoundry/cf-release/tree/master/src)
-directory.
+directory.  - ok more fixes on boshlite
 
 If you want to make changes to the `cf-release` itself, read on.
 
