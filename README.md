@@ -1,4 +1,5 @@
 # Cloud Foundry release
+database file system active
 
 The BOSH release for Cloud Foundry.
 
