@@ -1,5 +1,7 @@
 # Contributing to cf-release
 
+Here is some random text to test out master branch blocking
+
 The Cloud Foundry team uses GitHub and accepts contributions via
 [pull request](https://help.github.com/articles/using-pull-requests)
 
