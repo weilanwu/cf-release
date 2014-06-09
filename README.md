@@ -1,7 +1,8 @@
 # Welcome to Cloud Foundry
 now hit on files on Master branch -- a little more patches -- back to mod master again - should block
 
-fixed again
+fixed again -- git commits to test out better messaging
+
 
 Cloud Foundry is an open platform as a service (PaaS) that provides a choice of clouds, developer frameworks, and application services. Cloud Foundry makes it faster and easier to build, test, deploy, and scale applications.
 
