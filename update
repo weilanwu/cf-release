@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Updating to check perfect github webhooks perfect ^ 2 ^ 2 ^ 2
 set -e
 
 submodule_warning='Uncommitted submodules changes will be clobbered'
