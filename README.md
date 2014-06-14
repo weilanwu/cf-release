@@ -1,4 +1,9 @@
 # Welcome to Cloud Foundry
+now hit on files on Master branch -- a little more patches -- back to mod master again - should block
+
+fixed again -- git commits to test out better messaging
+-- more testing here again - it doesnt work for HuaweiTech ?
+
 
 Cloud Foundry is an open platform as a service (PaaS) that provides a choice of clouds, developer frameworks, and application services. Cloud Foundry makes it faster and easier to build, test, deploy, and scale applications.
 
@@ -7,11 +12,12 @@ This repository contains the Cloud Foundry source code.
 Our documentation (currently a work in progress) is available here: [http://docs.cloudfoundry.org/](http://docs.cloudfoundry.org/).
 
 ## About Branches
+Testing more 1.2.3.4.5 - more to pull test 6.7.8.9.10
 
 The [**develop**](https://github.com/cloudfoundry/cf-release/tree/develop) branch is where we do active development. Although we endeavor to keep the [**develop**](https://github.com/cloudfoundry/cf-release/tree/develop) branch stable, we do not guarantee that any given commit will deploy cleanly.
 
 If you want a stable branch, we recommend that you use the [**release-candidate**](https://github.com/cloudfoundry/cf-release/tree/release-candidate) branch.
-
+more more testing
 ## Repository Contents
 
 This repository is structured for use with [BOSH](http://github.com/cloudfoundry/bosh); an open source tool for release engineering, deployment and lifecycle management of large scale distributed services. 
